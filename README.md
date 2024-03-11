@@ -1,4 +1,4 @@
-# PHP Laravel - Task 1  : Assignment from Banao Technologies
+# PHP & Laravel - Task 1  : Assignment from Banao Technologies
 
 ##  User Registration / Login System. 
 This Laravel application is allow users to Registration. It includes basic functionalities such as user registration, login.
